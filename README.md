@@ -1,1 +1,1 @@
-Livechat utilizando Springboot e Websocket.
+Projeto de livechat utilizando Springboot e Websocket.
