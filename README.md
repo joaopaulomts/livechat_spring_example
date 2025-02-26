@@ -116,11 +116,6 @@ stompClient.connect({}, () => {
 });
 ```
 
-## 📌 Melhorias Futuras
-- 🔐 Autenticação de usuários
-- 📢 Suporte a salas privadas de chat
-- 💾 Persistência das mensagens no banco de dados
-
 ## 📜 Licença
 Este projeto está sob a licença **MIT**. Sinta-se à vontade para utilizá-lo e modificá-lo conforme necessário! 🚀
 
